@@ -12,7 +12,7 @@ Only things left behind:
 - armory / stash
 - stations blips
 
-Note: my config is setup to my highways mlo  and another one
+Note: my config is setup to my highways mlo : https://github.com/ShadyScripts/highways-building thanks
 
 >>> YOU WILL NEED TO EDIT THE CONFIG TO YOUR NEEDS
 
